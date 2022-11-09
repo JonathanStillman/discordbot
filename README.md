@@ -21,7 +21,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JonathanStillman/crypto-currency-app.git
+$ git clone https://github.com/JonathanStillman/discordbot.git
 
 # Go into the repository
 $ cd discordbot
